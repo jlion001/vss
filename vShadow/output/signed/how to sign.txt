@@ -1,0 +1,4 @@
+Run makecert_vss.bat to create the certificate
+Use certmgr to export the certificate as pfx file (be sure to specify password)
+Double click on exported pfx file to re-import it (you'll need the password specified above)
+Run signtool_vss to sign the dlls

@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  vShadow.cpp
+  VssComponent.cpp
+  VssFileDescriptor.cpp
+  VssSelect.cpp
+  VssWriter.cpp
+  Wrapper.cpp
+  Generating Code...
+     Creating library E:\repos\vss\vShadow\\output\vShadow-win764.lib and object E:\repos\vss\vShadow\\output\vShadow-win764.exp
+vShadow-win764.exp : warning LNK4070: /OUT:VShadow.dll directive in .EXP differs from output filename 'E:\repos\vss\vShadow\\output\vShadow-win764.dll'; ignoring directive
+  vShadow-win764.vcxproj -> E:\repos\vss\vShadow\output\vShadow-win764.dll

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+vShadowLib
+</name>
+</assembly>
+<members>
+<member name="T:vShadowLib.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:vShadowLib.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:vShadowLib.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:vShadowLib.file.FileInfo">
+ <summary>
+ Encapsulates information about a file, on either a remote or local location.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:vShadowLib.file.FileInfo.SECURITY_ATTRIBUTES">
+ <summary>
+ Structure used by windows to store security attributes
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:vShadowLib.file.FileInfo.FILETIME">
+ <summary>
+ Structure used by windows to store file times. Referenced by WIN32_FIND_DATA structure
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:vShadowLib.file.FileInfo.WIN32_FIND_DATA">
+ <summary>
+ Information about a remote file, returned by the FTPFindFirstFile and InternetFindNextFile API calls.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:vShadowLib.file.FileManagement.FindFirstFile(System.String,vShadowLib.file.FileInfo.WIN32_FIND_DATA)">
+ <summary>
+ FindFirstFile API. Necessary because system.io functions can't access shadow volume.
+ http://msdn2.microsoft.com/en-us/library/aa364418.aspx
+ </summary>
+ <param name="lpszSearchFile"></param>
+ <param name="lpFindFileData"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:vShadowLib.file.FileManagement.FindNextFile(System.IntPtr,vShadowLib.file.FileInfo.WIN32_FIND_DATA)">
+ <summary>
+ FindNextFile API. Necessary because system.io functions can't access shadow volume.
+ http://msdn2.microsoft.com/en-us/library/aa364428.aspx
+ </summary>
+ <param name="hFind"></param>
+ <param name="lpFindFileData"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:vShadowLib.file.FileManagement.FindClose(System.IntPtr)">
+ <summary>
+ FindClose API. Necessary because system.io functions can't access shadow volume.
+ http://msdn2.microsoft.com/en-us/library/aa364413.aspx
+ </summary>
+ <param name="hFind"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:vShadowLib.file.FileManagement.CopyFile(System.String,System.String,System.Byte)">
+ <summary>
+ Copy File API. Necessary because system.io functions can't access shadow volume.
+ http://msdn2.microsoft.com/en-us/library/aa363851.aspx
+ </summary>
+ <param name="lpExistingFileName"></param>
+ <param name="lpNewFileName"></param>
+ <param name="bFailIfExists"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,9 @@
+F:\Projects\Controlled\vss-3\vShadow\vShadowLib\bin\Debug\vShadowLib.dll
+F:\Projects\Controlled\vss-3\vShadow\vShadowLib\bin\Debug\vShadowLib.pdb
+F:\Projects\Controlled\vss-3\vShadow\vShadowLib\bin\Debug\vShadowLib.xml
+F:\Projects\Controlled\vss-3\vShadow\vShadowLib\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Controlled\vss-3\vShadow\vShadowLib\obj\Debug\vShadowLib.Resources.resources
+F:\Projects\Controlled\vss-3\vShadow\vShadowLib\obj\Debug\vShadowLib.vbproj.GenerateResource.Cache
+F:\Projects\Controlled\vss-3\vShadow\vShadowLib\obj\Debug\vShadowLib.dll
+F:\Projects\Controlled\vss-3\vShadow\vShadowLib\obj\Debug\vShadowLib.xml
+F:\Projects\Controlled\vss-3\vShadow\vShadowLib\obj\Debug\vShadowLib.pdb

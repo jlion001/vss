@@ -1,0 +1,67 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Test
+</name>
+</assembly>
+<members>
+<member name="M:Test.frmTest.FileManagement.FindFirstFile(System.String,Test.FileInfo.WIN32_FIND_DATA)">
+	<summary>
+ FindFirstFile API. Necessary because system.io functions can't access shadow volume.
+ http://msdn2.microsoft.com/en-us/library/aa364418.aspx
+ </summary>
+	<param name="lpszSearchFile"></param>
+	<param name="lpFindFileData"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Test.frmTest.FileManagement.FindNextFile(System.IntPtr,Test.FileInfo.WIN32_FIND_DATA)">
+	<summary>
+ FindNextFile API. Necessary because system.io functions can't access shadow volume.
+ http://msdn2.microsoft.com/en-us/library/aa364428.aspx
+ </summary>
+	<param name="hFind"></param>
+	<param name="lpFindFileData"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Test.frmTest.FileManagement.FindClose(System.IntPtr)">
+	<summary>
+ FindClose API. Necessary because system.io functions can't access shadow volume.
+ http://msdn2.microsoft.com/en-us/library/aa364413.aspx
+ </summary>
+	<param name="hFind"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Test.frmTest.FileManagement.CopyFile(System.String,System.String,System.Byte@)">
+	<summary>
+ Copy File API. Necessary because system.io functions can't access shadow volume.
+ http://msdn2.microsoft.com/en-us/library/aa363851.aspx
+ </summary>
+	<param name="lpExistingFileName"></param>
+	<param name="lpNewFileName"></param>
+	<param name="bFailIfExists"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:Test.FileInfo.SECURITY_ATTRIBUTES">
+	<summary>
+ Structure used by windows to store security attributes
+ </summary>
+	<remarks></remarks>
+</member><member name="T:Test.FileInfo.FILETIME">
+	<summary>
+ Structure used by windows to store file times. Referenced by WIN32_FIND_DATA structure
+ </summary>
+	<remarks></remarks>
+</member><member name="T:Test.FileInfo.WIN32_FIND_DATA">
+	<summary>
+ Information about a remote file, returned by the FTPFindFirstFile and InternetFindNextFile API calls.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:Test.FileInfo">
+	<summary>
+ Encapsulates information about a file, on either a remote or local location.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

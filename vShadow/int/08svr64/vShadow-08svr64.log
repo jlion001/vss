@@ -1,0 +1,75 @@
+﻿  stdafx.cpp
+  vShadow.cpp
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(49,6): warning C4091: 'typedef ': ignored on left of 'VSS_USAGE_TYPE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(57,6): warning C4091: 'typedef ': ignored on left of 'VSS_SOURCE_TYPE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(70,6): warning C4091: 'typedef ': ignored on left of 'VSS_RESTOREMETHOD_ENUM' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(78,6): warning C4091: 'typedef ': ignored on left of 'VSS_WRITERRESTORE_ENUM' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(86,6): warning C4091: 'typedef ': ignored on left of 'VSS_COMPONENT_TYPE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(94,6): warning C4091: 'typedef ': ignored on left of 'VSS_ALTERNATE_WRITER_STATE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(104,6): warning C4091: 'typedef ': ignored on left of 'VSS_SUBSCRIBE_MASK' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(114,6): warning C4091: 'typedef ': ignored on left of 'VSS_RESTORE_TARGET' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(123,6): warning C4091: 'typedef ': ignored on left of 'VSS_FILE_RESTORE_STATUS' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(131,6): warning C4091: 'typedef ': ignored on left of 'VSS_COMPONENT_FLAGS' when no variable is declared
+  VssComponent.cpp
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(49,6): warning C4091: 'typedef ': ignored on left of 'VSS_USAGE_TYPE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(57,6): warning C4091: 'typedef ': ignored on left of 'VSS_SOURCE_TYPE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(70,6): warning C4091: 'typedef ': ignored on left of 'VSS_RESTOREMETHOD_ENUM' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(78,6): warning C4091: 'typedef ': ignored on left of 'VSS_WRITERRESTORE_ENUM' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(86,6): warning C4091: 'typedef ': ignored on left of 'VSS_COMPONENT_TYPE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(94,6): warning C4091: 'typedef ': ignored on left of 'VSS_ALTERNATE_WRITER_STATE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(104,6): warning C4091: 'typedef ': ignored on left of 'VSS_SUBSCRIBE_MASK' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(114,6): warning C4091: 'typedef ': ignored on left of 'VSS_RESTORE_TARGET' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(123,6): warning C4091: 'typedef ': ignored on left of 'VSS_FILE_RESTORE_STATUS' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(131,6): warning C4091: 'typedef ': ignored on left of 'VSS_COMPONENT_FLAGS' when no variable is declared
+  VssFileDescriptor.cpp
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(49,6): warning C4091: 'typedef ': ignored on left of 'VSS_USAGE_TYPE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(57,6): warning C4091: 'typedef ': ignored on left of 'VSS_SOURCE_TYPE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(70,6): warning C4091: 'typedef ': ignored on left of 'VSS_RESTOREMETHOD_ENUM' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(78,6): warning C4091: 'typedef ': ignored on left of 'VSS_WRITERRESTORE_ENUM' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(86,6): warning C4091: 'typedef ': ignored on left of 'VSS_COMPONENT_TYPE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(94,6): warning C4091: 'typedef ': ignored on left of 'VSS_ALTERNATE_WRITER_STATE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(104,6): warning C4091: 'typedef ': ignored on left of 'VSS_SUBSCRIBE_MASK' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(114,6): warning C4091: 'typedef ': ignored on left of 'VSS_RESTORE_TARGET' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(123,6): warning C4091: 'typedef ': ignored on left of 'VSS_FILE_RESTORE_STATUS' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(131,6): warning C4091: 'typedef ': ignored on left of 'VSS_COMPONENT_FLAGS' when no variable is declared
+  VssSelect.cpp
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(49,6): warning C4091: 'typedef ': ignored on left of 'VSS_USAGE_TYPE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(57,6): warning C4091: 'typedef ': ignored on left of 'VSS_SOURCE_TYPE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(70,6): warning C4091: 'typedef ': ignored on left of 'VSS_RESTOREMETHOD_ENUM' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(78,6): warning C4091: 'typedef ': ignored on left of 'VSS_WRITERRESTORE_ENUM' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(86,6): warning C4091: 'typedef ': ignored on left of 'VSS_COMPONENT_TYPE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(94,6): warning C4091: 'typedef ': ignored on left of 'VSS_ALTERNATE_WRITER_STATE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(104,6): warning C4091: 'typedef ': ignored on left of 'VSS_SUBSCRIBE_MASK' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(114,6): warning C4091: 'typedef ': ignored on left of 'VSS_RESTORE_TARGET' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(123,6): warning C4091: 'typedef ': ignored on left of 'VSS_FILE_RESTORE_STATUS' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(131,6): warning C4091: 'typedef ': ignored on left of 'VSS_COMPONENT_FLAGS' when no variable is declared
+  VssWriter.cpp
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(49,6): warning C4091: 'typedef ': ignored on left of 'VSS_USAGE_TYPE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(57,6): warning C4091: 'typedef ': ignored on left of 'VSS_SOURCE_TYPE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(70,6): warning C4091: 'typedef ': ignored on left of 'VSS_RESTOREMETHOD_ENUM' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(78,6): warning C4091: 'typedef ': ignored on left of 'VSS_WRITERRESTORE_ENUM' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(86,6): warning C4091: 'typedef ': ignored on left of 'VSS_COMPONENT_TYPE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(94,6): warning C4091: 'typedef ': ignored on left of 'VSS_ALTERNATE_WRITER_STATE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(104,6): warning C4091: 'typedef ': ignored on left of 'VSS_SUBSCRIBE_MASK' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(114,6): warning C4091: 'typedef ': ignored on left of 'VSS_RESTORE_TARGET' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(123,6): warning C4091: 'typedef ': ignored on left of 'VSS_FILE_RESTORE_STATUS' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(131,6): warning C4091: 'typedef ': ignored on left of 'VSS_COMPONENT_FLAGS' when no variable is declared
+  Wrapper.cpp
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(49,6): warning C4091: 'typedef ': ignored on left of 'VSS_USAGE_TYPE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(57,6): warning C4091: 'typedef ': ignored on left of 'VSS_SOURCE_TYPE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(70,6): warning C4091: 'typedef ': ignored on left of 'VSS_RESTOREMETHOD_ENUM' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(78,6): warning C4091: 'typedef ': ignored on left of 'VSS_WRITERRESTORE_ENUM' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(86,6): warning C4091: 'typedef ': ignored on left of 'VSS_COMPONENT_TYPE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(94,6): warning C4091: 'typedef ': ignored on left of 'VSS_ALTERNATE_WRITER_STATE' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(104,6): warning C4091: 'typedef ': ignored on left of 'VSS_SUBSCRIBE_MASK' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(114,6): warning C4091: 'typedef ': ignored on left of 'VSS_RESTORE_TARGET' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(123,6): warning C4091: 'typedef ': ignored on left of 'VSS_FILE_RESTORE_STATUS' when no variable is declared
+E:\repos\vss\vShadow\inc\svr2008\vswriter.h(131,6): warning C4091: 'typedef ': ignored on left of 'VSS_COMPONENT_FLAGS' when no variable is declared
+     Creating library E:\repos\vss\vShadow\\output\vShadow-08svr64.lib and object E:\repos\vss\vShadow\\output\vShadow-08svr64.exp
+vShadow-08svr64.exp : warning LNK4070: /OUT:VShadow.dll directive in .EXP differs from output filename 'E:\repos\vss\vShadow\\output\vShadow-08svr64.dll'; ignoring directive
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 213 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+vShadow-08svr64.exp : warning LNK4070: /OUT:VShadow.dll directive in .EXP differs from output filename 'E:\repos\vss\vShadow\\output\vShadow-08svr64.dll'; ignoring directive
+  vShadow-08svr64.vcxproj -> E:\repos\vss\vShadow\output\vShadow-08svr64.dll

@@ -1,0 +1,9 @@
+LIBRARY VShadow
+EXPORTS
+	Version								@1
+	VSSInitializeForBackup				@2
+	VSSStartSnapshot					@3
+	VSSGetSnapShotDeviceName			@4
+	VSSDeleteAllSnapshots				@5
+	VSSCloseBackup						@6
+	VSSGetLastStatus					@7
